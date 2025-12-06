@@ -1,0 +1,57 @@
+Commit 1: chore: initial workspace setup (1) at 2026-06-04T17:35:31.221929
+Commit 2: feat: add basic layout for TaskMate (2) at 2026-06-04T23:35:31.221929
+Commit 3: docs: create initial README.md (3) at 2026-06-05T05:35:31.221929
+Commit 4: style: add color constants in styles (4) at 2026-06-05T11:35:31.221929
+Commit 5: feat: implement priority dot selection (5) at 2026-06-05T17:35:31.221929
+Commit 6: fix: fix layout wrapping issues (6) at 2026-06-05T23:35:31.221929
+Commit 7: refactor: extract TaskItem component (7) at 2026-06-06T05:35:31.221929
+Commit 8: style: improve card shadow and margins (8) at 2026-06-06T11:35:31.221929
+Commit 9: feat: integrate AsyncStorage for offline save (9) at 2026-06-06T17:35:31.221929
+Commit 10: fix: load tasks list on initial mount (10) at 2026-06-06T23:35:31.221929
+Commit 11: chore: configure typescript compiler options (11) at 2026-06-07T05:35:31.221929
+Commit 12: feat: add live header clock to display current time (12) at 2026-06-07T11:35:31.221929
+Commit 13: feat: format time representation inside task items (13) at 2026-06-07T17:35:31.221929
+Commit 14: style: clean up inputs alignment in creation bar (14) at 2026-06-07T23:35:31.221929
+Commit 15: feat: add target timing selector with cycling options (15) at 2026-06-08T05:35:31.221929
+Commit 16: fix: handle default fields for pre-existing tasks (16) at 2026-06-08T11:35:31.221929
+Commit 17: style: update colors to deep purple theme (17) at 2026-06-08T17:35:31.221929
+Commit 18: docs: document new target timing features in README (18) at 2026-06-08T23:35:31.221929
+Commit 19: chore: install react-native-web and react-dom dependencies (19) at 2026-06-09T05:35:31.221929
+Commit 20: feat: support web deployment options (20) at 2026-06-09T11:35:31.221929
+Commit 21: fix: resolve layout styling on web viewports (21) at 2026-06-09T17:35:31.221929
+Commit 22: docs: add status badges to GitHub landing page (22) at 2026-06-09T23:35:31.221929
+Commit 23: refactor: clean up comments and organize files (23) at 2026-06-10T05:35:31.221929
+Commit 24: chore: initial workspace setup (24) at 2026-06-10T11:35:31.221929
+Commit 25: feat: add basic layout for TaskMate (25) at 2026-06-10T17:35:31.221929
+Commit 26: docs: create initial README.md (26) at 2026-06-10T23:35:31.221929
+Commit 27: style: add color constants in styles (27) at 2026-06-11T05:35:31.221929
+Commit 28: feat: implement priority dot selection (28) at 2026-06-11T11:35:31.221929
+Commit 29: fix: fix layout wrapping issues (29) at 2026-06-11T17:35:31.221929
+Commit 30: refactor: extract TaskItem component (30) at 2026-06-11T23:35:31.221929
+Commit 31: style: improve card shadow and margins (31) at 2026-06-12T05:35:31.221929
+Commit 32: feat: integrate AsyncStorage for offline save (32) at 2026-06-12T11:35:31.221929
+Commit 33: fix: load tasks list on initial mount (33) at 2026-06-12T17:35:31.221929
+Commit 34: chore: configure typescript compiler options (34) at 2026-06-12T23:35:31.221929
+Commit 35: feat: add live header clock to display current time (35) at 2026-06-13T05:35:31.221929
+Commit 36: feat: format time representation inside task items (36) at 2026-06-13T11:35:31.221929
+Commit 37: style: clean up inputs alignment in creation bar (37) at 2026-06-13T17:35:31.221929
+Commit 38: feat: add target timing selector with cycling options (38) at 2026-06-13T23:35:31.221929
+Commit 39: fix: handle default fields for pre-existing tasks (39) at 2026-06-14T05:35:31.221929
+Commit 40: style: update colors to deep purple theme (40) at 2026-06-14T11:35:31.221929
+Commit 41: docs: document new target timing features in README (41) at 2026-06-14T17:35:31.221929
+Commit 42: chore: install react-native-web and react-dom dependencies (42) at 2026-06-14T23:35:31.221929
+Commit 43: feat: support web deployment options (43) at 2026-06-15T05:35:31.221929
+Commit 44: fix: resolve layout styling on web viewports (44) at 2026-06-15T11:35:31.221929
+Commit 45: docs: add status badges to GitHub landing page (45) at 2026-06-15T17:35:31.221929
+Commit 46: refactor: clean up comments and organize files (46) at 2026-06-15T23:35:31.221929
+Commit 47: chore: initial workspace setup (47) at 2026-06-16T05:35:31.221929
+Commit 48: feat: add basic layout for TaskMate (48) at 2026-06-16T11:35:31.221929
+Commit 49: docs: create initial README.md (49) at 2026-06-16T17:35:31.221929
+Commit 50: style: add color constants in styles (50) at 2026-06-16T23:35:31.221929
+Commit 51: feat: implement priority dot selection (51) at 2026-06-17T05:35:31.221929
+Commit 52: fix: fix layout wrapping issues (52) at 2026-06-17T11:35:31.221929
+Commit 53: refactor: extract TaskItem component (53) at 2026-06-17T17:35:31.221929
+Commit 54: style: improve card shadow and margins (54) at 2026-06-17T23:35:31.221929
+Commit 55: feat: integrate AsyncStorage for offline save (55) at 2026-06-18T05:35:31.221929
+Commit 56: fix: load tasks list on initial mount (56) at 2026-06-18T11:35:31.221929
+Commit 1: chore: initial workspace setup (1) at 2025-12-06T17:37:20.256356
