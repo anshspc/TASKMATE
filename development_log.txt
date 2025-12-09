@@ -67,3 +67,4 @@ Commit 10: fix: load tasks list on initial mount (10) at 2025-12-08T23:37:20.256
 Commit 11: chore: configure typescript compiler options (11) at 2025-12-09T05:37:20.256356
 Commit 12: feat: add live header clock to display current time (12) at 2025-12-09T11:37:20.256356
 Commit 13: feat: format time representation inside task items (13) at 2025-12-09T17:37:20.256356
+Commit 14: style: clean up inputs alignment in creation bar (14) at 2025-12-09T23:37:20.256356
