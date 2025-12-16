@@ -94,3 +94,4 @@ Commit 37: style: clean up inputs alignment in creation bar (37) at 2025-12-15T1
 Commit 38: feat: add target timing selector with cycling options (38) at 2025-12-15T23:37:20.256356
 Commit 39: fix: handle default fields for pre-existing tasks (39) at 2025-12-16T05:37:20.256356
 Commit 40: style: update colors to deep purple theme (40) at 2025-12-16T11:37:20.256356
+Commit 41: docs: document new target timing features in README (41) at 2025-12-16T17:37:20.256356
