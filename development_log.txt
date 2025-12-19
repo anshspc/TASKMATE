@@ -106,3 +106,4 @@ Commit 49: docs: create initial README.md (49) at 2025-12-18T17:37:20.256356
 Commit 50: style: add color constants in styles (50) at 2025-12-18T23:37:20.256356
 Commit 51: feat: implement priority dot selection (51) at 2025-12-19T05:37:20.256356
 Commit 52: fix: fix layout wrapping issues (52) at 2025-12-19T11:37:20.256356
+Commit 53: refactor: extract TaskItem component (53) at 2025-12-19T17:37:20.256356
